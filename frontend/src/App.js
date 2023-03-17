@@ -22,7 +22,7 @@ function App() {
       event.target.value = '';
     }
   }
-//<button onClick={send}>Hit</button>
+
   return (
     <div className="App">
     		<Header />
